@@ -18,6 +18,8 @@ My background in computer information systems cultivated a passion for cybersecu
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|                                               | Active Directory Project| <a href="https://github.com/Bryce005/Active-Directory/tree/main">Active Directory Project</a>|
+|                                               | Build A Basic Home Lab|
 
 ## Tools
 
@@ -50,3 +52,4 @@ My background in computer information systems cultivated a passion for cybersecu
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Active Directory Project
