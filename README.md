@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/bryce-fisher"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate from The University of Texas at Tyler, Soules College of Business, actively involved in information technology through certifications and coninous trainings, specifcally in the field of cybersecurity.
+I am a recent graduate from The University of Texas at Tyler, Soules College of Business, actively involved in information technology through certifications and continous trainings, specifcally in the field of cybersecurity.
 
 ## Objective
 
